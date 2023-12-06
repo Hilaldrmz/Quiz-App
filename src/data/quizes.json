@@ -324,25 +324,30 @@
             {
                 "id": 1,
                 "text": "What is the chemical symbol for water?",
+                "correctAnswer": "a",
                 "options": [
                     {
                         "id": 1,
                         "label": "a",
+                        "text": "H2O",
                         "isCorrect": true
                     },
                     {
                         "id": 2,
                         "label": "b",
+                        "text": "CO2",
                         "isCorrect": false
                     },
                     {
                         "id": 3,
                         "label": "c",
+                        "text": "O2",
                         "isCorrect": false
                     },
                     {
                         "id": 4,
                         "label": "d",
+                        "text": "H2SO4",
                         "isCorrect": false
                     }
                 ]
@@ -350,25 +355,30 @@
             {
                 "id": 2,
                 "text": "What is the atomic number of carbon?",
+                "correctAnswer": "c",
                 "options": [
                     {
                         "id": 1,
                         "label": "a",
+                        "text": "6",
                         "isCorrect": false
                     },
                     {
                         "id": 2,
                         "label": "b",
+                        "text": "12",
                         "isCorrect": false
                     },
                     {
                         "id": 3,
                         "label": "c",
+                        "text": "6",
                         "isCorrect": true
                     },
                     {
                         "id": 4,
                         "label": "d",
+                        "text": "24",
                         "isCorrect": false
                     }
                 ]
@@ -376,25 +386,30 @@
             {
                 "id": 3,
                 "text": "What is the pH of a neutral solution?",
+                "correctAnswer": "c",
                 "options": [
                     {
                         "id": 1,
                         "label": "a",
+                        "text": "7",
                         "isCorrect": false
                     },
                     {
                         "id": 2,
                         "label": "b",
+                        "text": "9",
                         "isCorrect": false
                     },
                     {
                         "id": 3,
                         "label": "c",
+                        "text": "7",
                         "isCorrect": true
                     },
                     {
                         "id": 4,
                         "label": "d",
+                        "text": "5",
                         "isCorrect": false
                     }
                 ]
@@ -402,25 +417,30 @@
             {
                 "id": 4,
                 "text": "What is the chemical symbol for carbon dioxide?",
+                "correctAnswer": "a",
                 "options": [
                     {
                         "id": 1,
                         "label": "a",
+                        "text": "CO2",
                         "isCorrect": true
                     },
                     {
                         "id": 2,
                         "label": "b",
+                        "text": "CO",
                         "isCorrect": false
                     },
                     {
                         "id": 3,
                         "label": "c",
+                        "text": "C",
                         "isCorrect": false
                     },
                     {
                         "id": 4,
                         "label": "d",
+                        "text": "C2O",
                         "isCorrect": false
                     }
                 ]
@@ -428,25 +448,30 @@
             {
                 "id": 5,
                 "text": "Which element has the chemical symbol 'Na'?",
+                "correctAnswer": "a",
                 "options": [
                     {
                         "id": 1,
                         "label": "a",
+                        "text": "Sodium",
                         "isCorrect": true
                     },
                     {
                         "id": 2,
                         "label": "b",
+                        "text": "Nickel",
                         "isCorrect": false
                     },
                     {
                         "id": 3,
                         "label": "c",
+                        "text": "Nitrogen",
                         "isCorrect": false
                     },
                     {
                         "id": 4,
                         "label": "d",
+                        "text": "Neon",
                         "isCorrect": false
                     }
                 ]
@@ -454,25 +479,30 @@
             {
                 "id": 6,
                 "text": "What is the pH value of a neutral substance?",
+                "correctAnswer": "d",
                 "options": [
                     {
                         "id": 1,
                         "label": "a",
+                        "text": "4",
                         "isCorrect": false
                     },
                     {
                         "id": 2,
                         "label": "b",
+                        "text": "9",
                         "isCorrect": false
                     },
                     {
                         "id": 3,
                         "label": "c",
+                        "text": "12",
                         "isCorrect": false
                     },
                     {
                         "id": 4,
                         "label": "d",
+                        "text": "7",
                         "isCorrect": true
                     }
                 ]
@@ -480,25 +510,30 @@
             {
                 "id": 7,
                 "text": "What is the chemical formula for hydrogen peroxide?",
+                "correctAnswer": "d",
                 "options": [
                     {
                         "id": 1,
                         "label": "a",
+                        "text": "H3O",
                         "isCorrect": false
                     },
                     {
                         "id": 2,
                         "label": "b",
+                        "text": "H2O2",
                         "isCorrect": false
                     },
                     {
                         "id": 3,
                         "label": "c",
+                        "text": "H2O",
                         "isCorrect": false
                     },
                     {
                         "id": 4,
                         "label": "d",
+                        "text": "H2O2",
                         "isCorrect": true
                     }
                 ]
@@ -506,25 +541,30 @@
             {
                 "id": 8,
                 "text": "What is the chemical symbol for sodium?",
+                "correctAnswer": "b",
                 "options": [
                     {
                         "id": 1,
                         "label": "a",
+                        "text": "So",
                         "isCorrect": false
                     },
                     {
                         "id": 2,
                         "label": "b",
+                        "text": "Na",
                         "isCorrect": true
                     },
                     {
                         "id": 3,
                         "label": "c",
+                        "text": "Sa",
                         "isCorrect": false
                     },
                     {
                         "id": 4,
                         "label": "d",
+                        "text": "Sn",
                         "isCorrect": false
                     }
                 ]
@@ -532,25 +572,30 @@
             {
                 "id": 9,
                 "text": "What is the process of conversion of water vapor into liquid water?",
+                "correctAnswer": "a",
                 "options": [
                     {
                         "id": 1,
                         "label": "a",
+                        "text": "Condensation",
                         "isCorrect": true
                     },
                     {
                         "id": 2,
                         "label": "b",
+                        "text": "Evaporation",
                         "isCorrect": false
                     },
                     {
                         "id": 3,
                         "label": "c",
+                        "text": "Sublimation",
                         "isCorrect": false
                     },
                     {
                         "id": 4,
                         "label": "d",
+                        "text": "Precipitation",
                         "isCorrect": false
                     }
                 ]
@@ -558,25 +603,30 @@
             {
                 "id": 10,
                 "text": "What is the chemical symbol for iron?",
+                "correctAnswer": "d",
                 "options": [
                     {
                         "id": 1,
                         "label": "a",
+                        "text": "Fe",
                         "isCorrect": false
                     },
                     {
                         "id": 2,
                         "label": "b",
+                        "text": "Ir",
                         "isCorrect": false
                     },
                     {
                         "id": 3,
                         "label": "c",
+                        "text": "In",
                         "isCorrect": false
                     },
                     {
                         "id": 4,
                         "label": "d",
+                        "text": "Fe",
                         "isCorrect": true
                     }
                 ]
@@ -898,7 +948,6 @@
                     }
                 ]
             }
-            
         ]
     },
     {
@@ -1216,8 +1265,6 @@
                     }
                 ]
             }
-            
-            
         ]
     }
 ]
